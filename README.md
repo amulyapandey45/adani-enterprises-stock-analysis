@@ -45,5 +45,5 @@ The dashboard provides **daily, monthly, quarterly, and yearly analysis** with d
 
 ## Author
 
-**Sanskar Pandey**
+**Amulya Pandey**
 Data Analyst | Power BI Enthusiast | Data Science Learner
